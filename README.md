@@ -33,7 +33,8 @@ console hesap makinesi uygulamasıdır.
 ### Ana Menü
 Aşağıda uygulamanın ana menü ekranı görülmektedir.
 
-<img width="318" height="304" alt="image" src="https://github.com/user-attachments/assets/80fa55bc-6c17-4135-9bad-f3e684ab7155" />
+<img width="266" height="288" alt="image" src="https://github.com/user-attachments/assets/b468bae2-2029-4760-a163-a34e14048543" />
+
 
 
 ---
