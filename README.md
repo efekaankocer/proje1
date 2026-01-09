@@ -40,20 +40,10 @@ Aşağıda uygulamanın ana menü ekranı görülmektedir.
 ### Toplama İşlemi Örneği
 Kullanıcı iki sayı girerek toplama işlemi yapabilir.
 
-![Toplama](images/toplama.png)
+<img width="112" height="72" alt="image" src="https://github.com/user-attachments/assets/19751110-2f18-4e9e-b656-8dc1c3c91198" />
 
----
 
-### KDV Hesaplama Örneği
-Ürün fiyatı ve KDV oranı girilerek KDV dahil fiyat hesaplanır.
 
-![KDV](images/kdv.png)
-
----
-
-## ▶️ Programın Çalıştırılması
-
-```bash
 python anamenü.py
 
 
