@@ -39,7 +39,7 @@ def karekok():
     else:
         print("Sonuç:", math.sqrt(a))
 
-def mod_alma():
+def kalan_alma():
     a = int(input("1. sayı: "))
     b = int(input("2. sayı: "))
     print("Sonuç:", a % b)

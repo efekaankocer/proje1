@@ -11,7 +11,7 @@ while True:
     print("║  5-üs alma          ║")
     print("║  6-kare             ║")
     print("║  7-karekök          ║")
-    print("║  8-mod alma         ║")
+    print("║  8-kalan alma       ║")
     print("║  9-mutlak değer     ║")
     print("║  10-KDV Hesaplama   ║")
     print("║  0-çıkış            ║")
@@ -34,7 +34,7 @@ while True:
     elif secim == "7":
         islemler.karekok()
     elif secim == "8":
-        islemler.mod_alma()
+        islemler.kalan_alma()
     elif secim == "9":
         islemler.mutlak_deger()
     elif secim == "10":
