@@ -48,5 +48,11 @@ def mutlak_deger():
     a = float(input("Sayı: "))
     print("Sonuç:", abs(a))
 
-
+def kdv_hesapla():
+    fiyat = float(input("Ürün fiyatı: "))
+    kdv_oran = float(input("KDV oranı (%): "))
+    kdv_tutar = fiyat * kdv_oran / 100
+    toplam = fiyat + kdv_tutar
+    print("KDV tutarı:", kdv_tutar)
+    print("KDV dahil fiyat:", toplam)
 
