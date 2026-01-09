@@ -22,7 +22,7 @@ console hesap makinesi uygulamasıdır.
 - Üs alma
 - Kare alma
 - Karekök
-- Mod alma
+- kalan alma
 - Mutlak değer
 - KDV hesaplama
 
@@ -56,6 +56,7 @@ Kullanıcı iki sayı girerek toplama işlemi yapabilir.
 
 
 python anamenü.py
+
 
 
 
