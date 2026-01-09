@@ -24,6 +24,7 @@ console hesap makinesi uygulamasıdır.
 - Karekök
 - Mod alma
 - Mutlak değer
+- KDV hesaplama
 
 ---
 
